@@ -5,6 +5,7 @@ final class Item
     private $name;
     private $status;
     private $changed;
+    private $test;
 
     public function __construct($id_obj) 
     {
